@@ -1,5 +1,5 @@
 /*
-*	ICS 314 - Functional Programming Part 1
+*	ICS 314 - sumofnumbers
 *	author: Vanessa Gerber
 *	date: 2/12/2019
 *	first try : 30+ DNF
