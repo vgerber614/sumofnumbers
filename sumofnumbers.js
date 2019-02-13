@@ -3,7 +3,7 @@
 *	author: Vanessa Gerber
 *	date: 2/12/2019
 *	first try : 30+ DNF
-*	second try: 
+*	second try: 14 min 22 sec (Rx time)
 */
 
 const myNums = [2,6,9,2,0]; // sum = 19
